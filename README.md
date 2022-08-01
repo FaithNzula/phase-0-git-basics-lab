@@ -169,7 +169,7 @@ repository in _<...your local directory>/my-repository/.git/'>_. **Change
 _back-up_ to the parent directory** and you should be back in the top-level
 directory. Run `npm test` again and you should be down to **four tests** left.
 If that's true, **change _back_ into `my-repository`**.
-
+n
 #### Step 4
 
 Create a **file** (not a folder) called `README.md` inside `my-repository`.
